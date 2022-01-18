@@ -1,6 +1,6 @@
 <template>
   <div class="Grid">
-    <h1>Mon Titre</h1>
+   
     <Cell ></Cell>
     
   </div>

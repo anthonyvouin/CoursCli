@@ -1,7 +1,6 @@
 <template>
   <div class="Cell">
-    <h1>Mon Titre Cell</h1>
-    <h2>j'ai {{monage}} ans</h2>
+ 
   </div>
 </template>
 
